@@ -12,4 +12,7 @@ async def on_message(message):
     return
   if message.content.startswith('!hello'):
     await message.channel.send('greetings!')
+
+# In a linux environment, on the terminal enter following command:
+# export DISCORDBOTTOKEN="enter token here"
 client.run(os.environ.get('DISCORDBOTTOKEN'))
