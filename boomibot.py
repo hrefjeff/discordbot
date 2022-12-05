@@ -1,3 +1,9 @@
+'''References and helpful sites:
+    1. https://github.com/Rapptz/discord.py/tree/master/examples
+    2. https://discordpy.readthedocs.io/en/stable/index.html
+    3. https://realpython.com/how-to-make-a-discord-bot-python/
+'''
+
 import os
 
 from discord.ext import tasks
