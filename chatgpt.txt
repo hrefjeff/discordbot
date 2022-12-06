@@ -1,0 +1,5 @@
+Questions:
+
+1. write a curl request that interacts with the jira API. Make it to where it returns a json list of first 50 users
+2. Write an MPI program to print hello world
+3. Write a windows power shell script that changes the attribute of an object on a domain
